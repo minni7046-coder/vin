@@ -1,0 +1,13 @@
+Time=0  | Voltage=0   V | Current=0 A | Power=0    W | Energy=0 Wh | Overload=0
+
+Time=15 | Voltage=230 V | Current=2 A | Power=460  W | Energy=0 Wh | Overload=0
+Time=25 | Voltage=230 V | Current=2 A | Power=460  W | Energy=0 Wh | Overload=0
+
+Time=35 | Voltage=230 V | Current=3 A | Power=690  W | Energy=0 Wh | Overload=0
+Time=45 | Voltage=230 V | Current=3 A | Power=690  W | Energy=0 Wh | Overload=0
+
+Time=55 | Voltage=230 V | Current=5 A | Power=1150 W | Energy=0 Wh | Overload=1
+Time=65 | Voltage=230 V | Current=5 A | Power=1150 W | Energy=0 Wh | Overload=1
+
+Time=75 | Voltage=230 V | Current=1 A | Power=230  W | Energy=0 Wh | Overload=0
+Time=85 | Voltage=230 V | Current=1 A | Power=230  W | Energy=0 Wh | Overload=0
